@@ -24,7 +24,7 @@ Metadata:
 Parameters:
   includeSecurityLab:
     Description: Deploys the resources for the S3 Security Best Practices Lab
-    Default: false
+    Default: true
     Type: String
     AllowedValues: [true, false]
   includePerfLab:
