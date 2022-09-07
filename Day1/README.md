@@ -1,2 +1,4 @@
 # Event engine - Day 1
 HASH: 7687-13d2c23604-e7
+
+![image](https://user-images.githubusercontent.com/58282807/188838866-7af2f903-d945-4442-bc3e-ffff23af9dd7.png)
