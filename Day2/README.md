@@ -2,7 +2,7 @@
 
 ![AWS-On-boarding-Workshop-edm_2](https://user-images.githubusercontent.com/58282807/189088215-36b51026-8a38-43b6-8128-8d97e8f99458.jpg)
 
-# Event Engine link - Day 1
+# Event Engine link - Day 2
 Click --> https://dashboard.eventengine.run/dashboard
 
 HASH: 35a7-11e9857ed4-09
