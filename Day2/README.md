@@ -8,7 +8,7 @@ Click --> https://dashboard.eventengine.run/dashboard
 HASH: 35a7-11e9857ed4-09
 
 # Lab: Setup Cloudtrail
-Lab instruction: https://mng.workshop.aws/cloudtrail/insights.html
+Lab instruction: https://mng.workshop.aws/cloudtrail/setup.html
 
 We are using: us-east-1 (N.Virginia)
 
