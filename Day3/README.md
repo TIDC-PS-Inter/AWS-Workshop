@@ -5,7 +5,7 @@
 # Event Engine link - Day 3
 Click --> https://dashboard.eventengine.run/dashboard
 
-HASH: 35a7-11e9857ed4-09
+HASH: 5c33-1a716bd824-d4
 
 # Lab: Lab: AWS Containers Immersion Day
 Lab instruction: https://catalog.us-east-1.prod.workshops.aws/workshops/ed1a8610-c721-43be-b8e7-0f300f74684e/en-US/ecs
