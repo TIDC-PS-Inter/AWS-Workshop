@@ -1,8 +1,7 @@
 # AWS Workshop Series - Day 4 CI/CD, DevOps
 
-![AWS-On-boarding-Workshop-08](https://user-images.githubusercontent.com/58282807/190568040-1e9da003-58c6-4940-8cb4-2b750d6b2f2e.jpg)
 
-# Event Engine link - Day 3
+# Event Engine link - Day 4
 Click --> https://dashboard.eventengine.run/dashboard
 
 HASH: XXXXXXXX
