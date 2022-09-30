@@ -1,4 +1,5 @@
 # AWS Workshop Series - Day 4 CI/CD, DevOps
+![AWS-On-boarding-Workshop-ep4-08](https://user-images.githubusercontent.com/58282807/193214229-8608f1ad-e15b-4555-9e83-3ab0a7705086.jpg)
 
 
 # Event Engine link - Day 4
