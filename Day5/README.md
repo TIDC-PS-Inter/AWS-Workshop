@@ -7,7 +7,10 @@ Click --> https://dashboard.eventengine.run/dashboard
 
 HASH: XXXXXXXXX
 
-# Lab: WILD RYDES Web Application
+# Lab: WILD RYDES Web Application (Medium) - Amplify CLI
 
 Lab instruction: https://webapp.serverlessworkshops.io/
 
+# Lab: WILD RYDES Web Application (Easy) - AWS Console
+
+Lab instruction: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
