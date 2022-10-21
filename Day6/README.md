@@ -1,5 +1,6 @@
 # AWS Workshop Series - Day 6 Landing Zone & Security Hub
-![AWS-On-boarding-Workshop-04](https://user-images.githubusercontent.com/58282807/194499457-dbec2ad5-8ec0-43cb-bd89-b2d3bacbdaa9.png)
+![AWS-On-boarding-Workshop-04](https://user-images.githubusercontent.com/58282807/197151496-bf545884-a088-43db-ae8d-a549728b09da.png)
+
 
 
 # Event Engine link - Day 6
