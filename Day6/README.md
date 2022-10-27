@@ -8,7 +8,7 @@ Click --> https://dashboard.eventengine.run/dashboard
 
 HASH: XXXXXXXXX
 
-# Lab: ????
+# Lab: Security Hub Workshop
 
-Lab instruction: 
+Lab instruction: https://catalog.workshops.aws/security-hub/en-US/introduction
 
