@@ -12,3 +12,6 @@ HASH: XXXXXXXXX
 
 Lab instruction: https://catalog.workshops.aws/security-hub/en-US/introduction
 
+# Automated Security Response on AWS
+![image](https://user-images.githubusercontent.com/58282807/198457481-fb6611ca-6c02-4806-aabd-1535dea08ed0.png)
+https://aws.amazon.com/solutions/implementations/automated-security-response-on-aws/
