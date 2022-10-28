@@ -6,7 +6,7 @@
 # Event Engine link - Day 6
 Click --> https://dashboard.eventengine.run/dashboard
 
-HASH: XXXXXXXXX
+HASH: 8dde-16c7b9f6c4-95
 
 # Lab: Security Hub Workshop
 
