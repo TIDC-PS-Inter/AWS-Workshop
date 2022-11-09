@@ -9,5 +9,12 @@ HASH: 3970-1e6dd46024-64
 
 # Lab: Terraform on AWS
 
-Install Terraform on Cloud9
+## Install Terraform on Cloud9
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform
+
+## Build Infrastructure
+AMI: ami-09d3b3274b6c5d4aa
+region: us-east-1
+
+## Change Infrastructure
+AMI: ami-017cdd6dc706848b2
