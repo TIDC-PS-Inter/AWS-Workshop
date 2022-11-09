@@ -7,6 +7,8 @@ Click --> https://dashboard.eventengine.run/dashboard
 
 HASH: 3970-1e6dd46024-64
 
-# Lab: Infrastructure as a code
+# Lab: Terraform on AWS
 
-Lab instruction: XXXXXX
+Install Terraform on Cloud9
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform
+![image](https://user-images.githubusercontent.com/58282807/200900338-ab0a3c10-d13f-41ae-9644-5ca4d53d0874.png)
