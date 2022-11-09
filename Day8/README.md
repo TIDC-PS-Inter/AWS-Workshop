@@ -5,7 +5,7 @@
 # Event Engine link - Day 8
 Click --> https://dashboard.eventengine.run/dashboard
 
-HASH: XXXXXXXXXX
+HASH: 3970-1e6dd46024-64
 
 # Lab: Infrastructure as a code
 
