@@ -19,3 +19,6 @@ region: us-east-1
 
 ### Change Infrastructure
 AMI: ami-017cdd6dc706848b2
+
+### Guideline
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
