@@ -8,7 +8,7 @@ Click --> https://dashboard.eventengine.run/dashboard
 HASH: 3970-1e6dd46024-64
 
 # Lab: CloudFormation on AWS
-https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-ap-southeast-1.html
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-east-1.html
 
 
 # Lab: Terraform on AWS
