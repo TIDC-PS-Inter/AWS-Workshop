@@ -17,12 +17,13 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform
 
 ### Build Infrastructure
-AMI: ami-09d3b3274b6c5d4aa
+Linux AMI: ami-09d3b3274b6c5d4aa
 
 region: us-east-1
 
 ### Change Infrastructure
-AMI: ami-017cdd6dc706848b2
+This part will change EC2-linux to EC2-Windows
+Windows AMI: ami-017cdd6dc706848b2
 
 ### Guideline
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
